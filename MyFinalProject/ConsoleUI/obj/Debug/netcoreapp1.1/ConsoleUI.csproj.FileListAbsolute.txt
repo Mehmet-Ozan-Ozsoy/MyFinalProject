@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\GitHub\MyFinalProject\MyFinalProject\ConsoleUI\bin\Debug\netcoreapp1.1\ConsoleUI.deps.json
+C:\Users\PC\Documents\GitHub\MyFinalProject\MyFinalProject\ConsoleUI\bin\Debug\netcoreapp1.1\ConsoleUI.runtimeconfig.json
+C:\Users\PC\Documents\GitHub\MyFinalProject\MyFinalProject\ConsoleUI\bin\Debug\netcoreapp1.1\ConsoleUI.runtimeconfig.dev.json
+C:\Users\PC\Documents\GitHub\MyFinalProject\MyFinalProject\ConsoleUI\bin\Debug\netcoreapp1.1\ConsoleUI.dll
+C:\Users\PC\Documents\GitHub\MyFinalProject\MyFinalProject\ConsoleUI\bin\Debug\netcoreapp1.1\ConsoleUI.pdb
+C:\Users\PC\Documents\GitHub\MyFinalProject\MyFinalProject\ConsoleUI\bin\Debug\netcoreapp1.1\Business.dll
+C:\Users\PC\Documents\GitHub\MyFinalProject\MyFinalProject\ConsoleUI\bin\Debug\netcoreapp1.1\DataAccess.dll
+C:\Users\PC\Documents\GitHub\MyFinalProject\MyFinalProject\ConsoleUI\bin\Debug\netcoreapp1.1\Entities.dll
+C:\Users\PC\Documents\GitHub\MyFinalProject\MyFinalProject\ConsoleUI\bin\Debug\netcoreapp1.1\Business.pdb
+C:\Users\PC\Documents\GitHub\MyFinalProject\MyFinalProject\ConsoleUI\bin\Debug\netcoreapp1.1\DataAccess.pdb
+C:\Users\PC\Documents\GitHub\MyFinalProject\MyFinalProject\ConsoleUI\bin\Debug\netcoreapp1.1\Entities.pdb
+C:\Users\PC\Documents\GitHub\MyFinalProject\MyFinalProject\ConsoleUI\obj\Debug\netcoreapp1.1\ConsoleUI.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\MyFinalProject\MyFinalProject\ConsoleUI\obj\Debug\netcoreapp1.1\ConsoleUI.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\MyFinalProject\MyFinalProject\ConsoleUI\obj\Debug\netcoreapp1.1\ConsoleUI.dll
+C:\Users\PC\Documents\GitHub\MyFinalProject\MyFinalProject\ConsoleUI\obj\Debug\netcoreapp1.1\ConsoleUI.pdb

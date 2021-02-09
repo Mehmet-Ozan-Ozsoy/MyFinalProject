@@ -1,0 +1,9 @@
+C:\Users\PC\Documents\GitHub\MyFinalProject\MyFinalProject\DataAccess\bin\Debug\netstandard1.4\DataAccess.deps.json
+C:\Users\PC\Documents\GitHub\MyFinalProject\MyFinalProject\DataAccess\bin\Debug\netstandard1.4\DataAccess.dll
+C:\Users\PC\Documents\GitHub\MyFinalProject\MyFinalProject\DataAccess\bin\Debug\netstandard1.4\DataAccess.pdb
+C:\Users\PC\Documents\GitHub\MyFinalProject\MyFinalProject\DataAccess\bin\Debug\netstandard1.4\Entities.dll
+C:\Users\PC\Documents\GitHub\MyFinalProject\MyFinalProject\DataAccess\bin\Debug\netstandard1.4\Entities.pdb
+C:\Users\PC\Documents\GitHub\MyFinalProject\MyFinalProject\DataAccess\obj\Debug\netstandard1.4\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\MyFinalProject\MyFinalProject\DataAccess\obj\Debug\netstandard1.4\DataAccess.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\MyFinalProject\MyFinalProject\DataAccess\obj\Debug\netstandard1.4\DataAccess.dll
+C:\Users\PC\Documents\GitHub\MyFinalProject\MyFinalProject\DataAccess\obj\Debug\netstandard1.4\DataAccess.pdb
