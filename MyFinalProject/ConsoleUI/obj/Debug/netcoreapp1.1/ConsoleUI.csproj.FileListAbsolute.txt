@@ -13,3 +13,5 @@ C:\Users\PC\Documents\GitHub\MyFinalProject\MyFinalProject\ConsoleUI\obj\Debug\n
 C:\Users\PC\Documents\GitHub\MyFinalProject\MyFinalProject\ConsoleUI\obj\Debug\netcoreapp1.1\ConsoleUI.AssemblyInfo.cs
 C:\Users\PC\Documents\GitHub\MyFinalProject\MyFinalProject\ConsoleUI\obj\Debug\netcoreapp1.1\ConsoleUI.dll
 C:\Users\PC\Documents\GitHub\MyFinalProject\MyFinalProject\ConsoleUI\obj\Debug\netcoreapp1.1\ConsoleUI.pdb
+C:\Users\PC\Documents\GitHub\MyFinalProject\MyFinalProject\ConsoleUI\bin\Debug\netcoreapp1.1\Core.dll
+C:\Users\PC\Documents\GitHub\MyFinalProject\MyFinalProject\ConsoleUI\bin\Debug\netcoreapp1.1\Core.pdb

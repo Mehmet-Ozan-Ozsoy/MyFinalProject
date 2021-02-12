@@ -9,3 +9,5 @@ C:\Users\PC\Documents\GitHub\MyFinalProject\MyFinalProject\Business\obj\Debug\ne
 C:\Users\PC\Documents\GitHub\MyFinalProject\MyFinalProject\Business\obj\Debug\netstandard1.4\Business.AssemblyInfo.cs
 C:\Users\PC\Documents\GitHub\MyFinalProject\MyFinalProject\Business\obj\Debug\netstandard1.4\Business.dll
 C:\Users\PC\Documents\GitHub\MyFinalProject\MyFinalProject\Business\obj\Debug\netstandard1.4\Business.pdb
+C:\Users\PC\Documents\GitHub\MyFinalProject\MyFinalProject\Business\bin\Debug\netstandard1.4\Core.dll
+C:\Users\PC\Documents\GitHub\MyFinalProject\MyFinalProject\Business\bin\Debug\netstandard1.4\Core.pdb

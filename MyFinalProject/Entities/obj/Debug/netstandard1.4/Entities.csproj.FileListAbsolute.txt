@@ -5,3 +5,5 @@ C:\Users\PC\Documents\GitHub\MyFinalProject\MyFinalProject\Entities\obj\Debug\ne
 C:\Users\PC\Documents\GitHub\MyFinalProject\MyFinalProject\Entities\obj\Debug\netstandard1.4\Entities.AssemblyInfo.cs
 C:\Users\PC\Documents\GitHub\MyFinalProject\MyFinalProject\Entities\obj\Debug\netstandard1.4\Entities.dll
 C:\Users\PC\Documents\GitHub\MyFinalProject\MyFinalProject\Entities\obj\Debug\netstandard1.4\Entities.pdb
+C:\Users\PC\Documents\GitHub\MyFinalProject\MyFinalProject\Entities\bin\Debug\netstandard1.4\Core.dll
+C:\Users\PC\Documents\GitHub\MyFinalProject\MyFinalProject\Entities\bin\Debug\netstandard1.4\Core.pdb

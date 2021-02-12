@@ -1,0 +1,7 @@
+C:\Users\PC\Documents\GitHub\MyFinalProject\MyFinalProject\Core\bin\Debug\netstandard1.4\Core.deps.json
+C:\Users\PC\Documents\GitHub\MyFinalProject\MyFinalProject\Core\bin\Debug\netstandard1.4\Core.dll
+C:\Users\PC\Documents\GitHub\MyFinalProject\MyFinalProject\Core\bin\Debug\netstandard1.4\Core.pdb
+C:\Users\PC\Documents\GitHub\MyFinalProject\MyFinalProject\Core\obj\Debug\netstandard1.4\Core.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\GitHub\MyFinalProject\MyFinalProject\Core\obj\Debug\netstandard1.4\Core.AssemblyInfo.cs
+C:\Users\PC\Documents\GitHub\MyFinalProject\MyFinalProject\Core\obj\Debug\netstandard1.4\Core.dll
+C:\Users\PC\Documents\GitHub\MyFinalProject\MyFinalProject\Core\obj\Debug\netstandard1.4\Core.pdb

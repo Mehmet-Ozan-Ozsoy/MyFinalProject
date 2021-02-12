@@ -1606,10 +1606,19 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
+      "Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v1.4",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": "1.1.6",
+          "NETStandard.Library": "1.6.1"
+        }
+      },
       "Entities/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v1.4",
         "dependencies": {
+          "Core": "1.0.0",
           "NETStandard.Library": "1.6.1"
         }
       }
@@ -5569,6 +5578,11 @@
         "system.xml.xdocument.nuspec"
       ]
     },
+    "Core/1.0.0": {
+      "type": "project",
+      "path": "../Core/Core.csproj",
+      "msbuildProject": "../Core/Core.csproj"
+    },
     "Entities/1.0.0": {
       "type": "project",
       "path": "../Entities/Entities.csproj",
@@ -5577,6 +5591,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v1.4": [
+      "Core >= 1.0.0",
       "Entities >= 1.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 1.1.6",
       "NETStandard.Library >= 1.6.1"
@@ -5599,6 +5614,9 @@
       "frameworks": {
         "netstandard1.4": {
           "projectReferences": {
+            "C:\\Users\\PC\\Documents\\GitHub\\MyFinalProject\\MyFinalProject\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\PC\\Documents\\GitHub\\MyFinalProject\\MyFinalProject\\Core\\Core.csproj"
+            },
             "C:\\Users\\PC\\Documents\\GitHub\\MyFinalProject\\MyFinalProject\\Entities\\Entities.csproj": {
               "projectPath": "C:\\Users\\PC\\Documents\\GitHub\\MyFinalProject\\MyFinalProject\\Entities\\Entities.csproj"
             }

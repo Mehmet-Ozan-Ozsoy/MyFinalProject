@@ -1060,8 +1060,18 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
+      "core/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": "1.1.6",
+          "NETStandard.Library": "1.6.1"
+        },
+        "runtime": {
+          "Core.dll": {}
+        }
+      },
       "dataaccess/1.0.0": {
         "dependencies": {
+          "Core": "1.0.0",
           "Entities": "1.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "1.1.6",
           "NETStandard.Library": "1.6.1"
@@ -1072,6 +1082,7 @@
       },
       "entities/1.0.0": {
         "dependencies": {
+          "Core": "1.0.0",
           "NETStandard.Library": "1.6.1"
         },
         "runtime": {
@@ -1785,6 +1796,11 @@
       "sha512": "sha512-5zJ0XDxAIg8iy+t4aMnQAu0MqVbqyvfoUVl1yDV61xdo3Vth45oA2FoY4pPkxYAH5f8ixpmTqXeEIya95x0aCQ==",
       "path": "system.xml.xdocument/4.3.0",
       "hashPath": "system.xml.xdocument.4.3.0.nupkg.sha512"
+    },
+    "core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "dataaccess/1.0.0": {
       "type": "project",

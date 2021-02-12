@@ -2624,10 +2624,19 @@
           "NETStandard.Library": "1.6.1"
         }
       },
+      "Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v1.4",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": "1.1.6",
+          "NETStandard.Library": "1.6.1"
+        }
+      },
       "DataAccess/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v1.4",
         "dependencies": {
+          "Core": "1.0.0",
           "Entities": "1.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "1.1.6",
           "NETStandard.Library": "1.6.1"
@@ -2637,6 +2646,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v1.4",
         "dependencies": {
+          "Core": "1.0.0",
           "NETStandard.Library": "1.6.1"
         }
       }
@@ -7752,6 +7762,11 @@
       "type": "project",
       "path": "../Business/Business.csproj",
       "msbuildProject": "../Business/Business.csproj"
+    },
+    "Core/1.0.0": {
+      "type": "project",
+      "path": "../Core/Core.csproj",
+      "msbuildProject": "../Core/Core.csproj"
     },
     "DataAccess/1.0.0": {
       "type": "project",
